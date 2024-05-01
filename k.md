@@ -1,5 +1,1 @@
-hi
-hello
-good
-morining
-sir
+i love you
